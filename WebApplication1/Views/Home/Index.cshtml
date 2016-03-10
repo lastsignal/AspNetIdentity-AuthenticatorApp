@@ -1,0 +1,14 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="row">
+    <div class="col-md-4">
+        <h2>This is an anonymous page</h2>
+        <p>
+            Means that the page doesn't need authentication.
+        </p>
+
+        @Html.ActionLink("Go to a page that required authentication", "SecurePage")
+    </div>
+</div>
