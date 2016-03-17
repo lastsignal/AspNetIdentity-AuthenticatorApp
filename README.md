@@ -1,4 +1,4 @@
-# AspNetIdentity-AuthenticatorApp
+# AspNetIdentity-SSO
 
 This POC shows how to authenticate users using a different application.
 
